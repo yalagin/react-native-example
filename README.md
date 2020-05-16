@@ -1,4 +1,4 @@
-#how to run
+# how to run
  you can navigate into them in your command prompt/ terminal (via the "cd" command) and run
 - npm install
 - npm start
